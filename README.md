@@ -3,3 +3,5 @@ This code is developed for analyzing the data for disordered packings of monodis
 
 This code includes calculation of contact and neighbour numbers, radial distribution function, bond-orientational order parameters, and packing density (using Voronoi tessellation). More details regarding these metrics and disordered packings of particles can be found in [https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00960e#!](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00960e#!). 
 
+![dump.400000](dump.400000.png)
+
